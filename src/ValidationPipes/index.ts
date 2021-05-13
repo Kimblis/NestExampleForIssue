@@ -1,0 +1,1 @@
+export { customizedValidationPipe } from './CustomizedValidationPipe';
