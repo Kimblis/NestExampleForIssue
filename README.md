@@ -1,8 +1,3 @@
-# meedio Payment Service
-
-**How to run this microservice?**
-
-- Start running Meedio MySQL server in Docker containers
 
 - `cp .env.example .env`
 
